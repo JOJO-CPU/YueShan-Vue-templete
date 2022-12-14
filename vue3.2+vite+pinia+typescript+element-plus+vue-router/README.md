@@ -17,14 +17,11 @@ vue-element 是一个后台前端解决方案,它使用了最新的前端技术�
 ## 安装
 ```
   # GitHub
-  git clone https://github.com/zouzhibin/vue-admin-perfect.git
-  # Gitee
-  git clone https://gitee.com/yuanzbz/vue-admin-perfect.git
+  git clone https://github.com/JOJO-CPU/YueShan-Vue-templete.git
 ```
 
 ## 分支管理
 - master 技术采用 vite + vue3.0 + Typescript + pinia
-- vue-admin-simple  简易版本
 - vite-vuex vite + vue3.0 + Typescript + vuex
 - vue-i18n 语言切换版本
 - webpack 技术采用 webpack + vue3.0 + Typescript + vuex
